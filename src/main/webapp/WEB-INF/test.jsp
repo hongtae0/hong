@@ -7,6 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-ddaa
+<%
+	System.out.println("hello");
+System.out.println("hello");
+%>
 </body>
 </html>
